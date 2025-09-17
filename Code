@@ -1,0 +1,6 @@
+#UI Action (Reset Button)
+function resetForm() 
+{ 
+    g_form.clearForm(); 
+    alert("Form has been cleared."); 
+}
